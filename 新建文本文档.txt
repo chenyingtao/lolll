@@ -48,3 +48,5 @@ git merge 分支名字
 
 配置 账号密码公钥  push 需要用 ssh
 ssh-keygen -t rsa -c  邮箱地址
+
+
